@@ -1,0 +1,10 @@
+C:\Users\Gabriel Azevedo\source\repos\02_Vendas_2021_POO\02_Vendas_2021_POO\obj\Debug\02_Vendas_2021_POO.csprojAssemblyReference.cache
+C:\Users\Gabriel Azevedo\source\repos\02_Vendas_2021_POO\02_Vendas_2021_POO\obj\Debug\_02_Vendas_2021_POO.Venda.resources
+C:\Users\Gabriel Azevedo\source\repos\02_Vendas_2021_POO\02_Vendas_2021_POO\obj\Debug\_02_Vendas_2021_POO.Properties.Resources.resources
+C:\Users\Gabriel Azevedo\source\repos\02_Vendas_2021_POO\02_Vendas_2021_POO\obj\Debug\02_Vendas_2021_POO.csproj.GenerateResource.cache
+C:\Users\Gabriel Azevedo\source\repos\02_Vendas_2021_POO\02_Vendas_2021_POO\obj\Debug\02_Vendas_2021_POO.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Azevedo\source\repos\02_Vendas_2021_POO\02_Vendas_2021_POO\bin\Debug\02_Vendas_2021_POO.exe.config
+C:\Users\Gabriel Azevedo\source\repos\02_Vendas_2021_POO\02_Vendas_2021_POO\bin\Debug\02_Vendas_2021_POO.exe
+C:\Users\Gabriel Azevedo\source\repos\02_Vendas_2021_POO\02_Vendas_2021_POO\bin\Debug\02_Vendas_2021_POO.pdb
+C:\Users\Gabriel Azevedo\source\repos\02_Vendas_2021_POO\02_Vendas_2021_POO\obj\Debug\02_Vendas_2021_POO.exe
+C:\Users\Gabriel Azevedo\source\repos\02_Vendas_2021_POO\02_Vendas_2021_POO\obj\Debug\02_Vendas_2021_POO.pdb
